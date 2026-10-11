@@ -6,3 +6,6 @@ https://drive.google.com/drive/folders/1_M1XvQWGhlsIverSBh-psHlnkDXSO0cQ
 
 # C programming language ref
 https://hlevkin.com/hlevkin/92usefulBooks/C/CNotesForProfessionals.pdf
+
+# Notes for everything
+https://goalkicker.com/
